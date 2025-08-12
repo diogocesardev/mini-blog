@@ -29,36 +29,6 @@
       "title": "Getting Started with CSS",
       "body": "CSS allows you to style your web pages and create beautiful layouts. In this beginner-friendly guide, we walk through the basics of CSS, including selectors, properties, and responsive design techniques. Start designing stunning websites today!",
       "author": "Lucas Pereira"
-    },
-    {
-      "id": "3508",
-      "title": "New Blog Test",
-      "body": "This a New Blog Test from the browser",
-      "author": "Boda"
-    },
-    {
-      "id": "20b7",
-      "title": "Teste histoty",
-      "body": "Teste histoty",
-      "author": "Alex Johnson"
-    },
-    {
-      "id": "2757",
-      "title": "Teste histoty 2",
-      "body": "Teste histoty 2",
-      "author": "Maria Silva"
-    },
-    {
-      "id": "b92a",
-      "title": "Teste history 3",
-      "body": "Teste history 3",
-      "author": "Lucas Pereira"
-    },
-    {
-      "id": "2527",
-      "title": "Teste history 4",
-      "body": "Teste history 34Teste history 4",
-      "author": "Maria Silva"
     }
   ]
 }
